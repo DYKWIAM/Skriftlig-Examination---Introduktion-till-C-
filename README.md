@@ -8,7 +8,7 @@
 **Format**: Kopiera den här filen och skriv svaren här inne.
 ---
 
-**Elevens namn**: ![blue badge](https://img.shields.io/badge/Masoud%20Dehdar-blue)Masoud Dehdar
+**Elevens namn**: ![blue badge](https://img.shields.io/badge/Masoud%20Dehdar-blue)
 
 ---
 
